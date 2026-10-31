@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Mi Launcher"
+rootProject.name = "MiLauncher"
 include(":jre_lwjgl3glfw")
-include(":MiLauncher")
+include(":ZalithLauncher")

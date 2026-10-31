@@ -10,4 +10,20 @@
     <color name="mi_card">#FFFFFF</color>
     <color name="mi_text">#071A35</color>
     <color name="mi_secondary_text">#607D99</color>
+
+    <color name="background_app">#071A35</color>
+    <color name="background_menu_top">#0D2B50</color>
+    <color name="background_status_bar">#071A35</color>
+    <color name="background_item">#112D4F</color>
+    <color name="background_item_selected">#1677C8</color>
+    <color name="menu_overlay">#0D2B50</color>
+    <color name="primary_text">#FFFFFF</color>
+    <color name="secondary_text">#A9DFFF</color>
+    <color name="settings_category">#42B8FF</color>
+    <color name="button_background">#1677C8</color>
+    <color name="button_background_selected">#42B8FF</color>
+    <color name="white_or_black">#FFFFFF</color>
+    <color name="black_or_white">#FFFFFF</color>
+    <color name="menu_bar_text">#F5FBFF</color>
+    <color name="background_menu_element">#42B8FF</color>
 </resources>

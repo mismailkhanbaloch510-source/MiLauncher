@@ -39,7 +39,9 @@ jobs:
         shell: bash
         run: |
           set -e
+          set +o pipefail
           yes | sdkmanager --licenses >/dev/null
+          set -o pipefail
           sdkmanager --install "platform-tools" "platforms;android-34" "build-tools;34.0.0" "ndk;25.2.9519653" "cmake;3.22.1"
 
       - name: Make Gradle wrapper executable
